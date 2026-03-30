@@ -1,6 +1,7 @@
 # Primeiro Projeto - Cálculo do consumo de energia
 
 <h2>TECNOLOGIAS  UTILZADAS<h2>
+  
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
 <h2>OBJETIVO</h2>
  <h4>Este projeto foi feito com o objetivo de compreender melhor o funcionamento da linguagem Python</h4>
