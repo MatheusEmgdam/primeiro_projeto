@@ -1,4 +1,4 @@
-<h1>Primeiro Projeto — Cálculo do consumo de energia<h1>\n
+#"Primeiro Projeto — Cálculo do consumo de energia"
   
 Este projeto em Python foi criado para realizar o ciclo **Entrada → Processamento →
 Saída**.
