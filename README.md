@@ -1,5 +1,5 @@
-<h1>Primeiro Projeto — Cálculo do consumo de energia<h1>
-
+<h1>Primeiro Projeto — Cálculo do consumo de energia<h1>\n
+  
 Este projeto em Python foi criado para realizar o ciclo **Entrada → Processamento →
 Saída**.
 O programa pede, respectivamente, pelos: 
